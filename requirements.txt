@@ -1,6 +1,7 @@
-streamlit
-numpy
+streamlit==1.40.2
+setuptools<60.0.0
+numpy==1.23.5
 matplotlib
-japanize_matplotlib
+japanize_matplotlib==3.6.3
 Pillow
 
